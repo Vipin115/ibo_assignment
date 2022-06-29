@@ -65,5 +65,5 @@ function getUniquePrducts(){
       
       
 }
-console.log(getUniquePrducts())
+getUniquePrducts()
 
